@@ -1,0 +1,43 @@
+body {
+	background-color: lightyellow;
+	font-family: Verdana, Arial, sans-serif;
+}
+img {
+	width: 280px;
+	padding: 20px 0 0 10px;
+}
+.article {
+	max-width: 1024px;
+	margin: 5px auto 5px auto;
+}
+.intro {
+	text-align: justify;
+	padding: 5px 20px 5px 20px;
+}
+.content {
+	max-width: 1024px;
+}
+.section {
+	max-width: 300px;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+	text-align: justify;
+}	
+h1 {
+	color: orange;
+	text-align: center;
+}
+h2 {
+	color: #999999;
+	font-size: 20px;
+}
+a {
+	color: orange;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: underline;
+	font-weight: normal;
+}
